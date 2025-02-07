@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hello! I'm Charles Njuguna, a passionate data scientist with a love for uncovering hidden insights from data. I have a background in Economics and Statistics and more than 4 years in Data Science. My expertise lies in Data analysis, and data visualization. I enjoy transforming complex datasets into actionable insights and have a knack for solving challenging problems.
+Hello! I'm Charles Njuguna, a passionate data scientist with a love for uncovering hidden insights from data. I have a background in Economics and Statistics and more than 4 years in Data Science. My expertise lies in Data analysis, Data Mining, Data Modelling and data visualization. I enjoy transforming complex datasets into actionable insights and have a knack for solving challenging busines problems with available data.
 <!--
 **charlesnjuguna/Charlesnjuguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
